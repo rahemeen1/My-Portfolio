@@ -66,7 +66,7 @@ function Header() {
     if (target) {
       target.scrollIntoView({ behavior: 'smooth' });
     }
-    setTimeout(() => setMenuOpen(false), 200);
+    setTimeout(() => setMenuOpen(false), 1000);
   }}
 >
   {link.text}
