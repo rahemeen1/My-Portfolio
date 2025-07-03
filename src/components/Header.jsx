@@ -55,15 +55,23 @@ function Header() {
               transition={{ duration: 0.3 }}
             >
               {navLinks.map((link) => (
-                <motion.a
-                  key={link.text}
-                  href={link.href}
-                  style={styles.mobileLink}
-                  whileHover={{ scale: 1.05 }}
-                  onClick={() => setMenuOpen(false)}
-                >
-                  {link.text}
-                </motion.a>
+              <motion.a
+  key={link.text}
+  href={link.href}
+  style={styles.mobileLink}
+  whileHover={{ scale: 1.05 }}
+  onClick={(e) => {
+    e.preventDefault();
+    const target = document.querySelector(link.href);
+    if (target) {
+      target.scrollIntoView({ behavior: 'smooth' });
+    }
+    setTimeout(() => setMenuOpen(false), 200);
+  }}
+>
+  {link.text}
+</motion.a>
+
               ))}
             </motion.div>
           )}
