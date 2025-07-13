@@ -11,7 +11,7 @@ const certifications = [
     title: 'Google AI Essentials',
     provider: 'Coursera',
     image: '/Google.jpg',
-    link: '/certificates/google-ai.pdf',
+    link: 'https://drive.google.com/file/d/1IuB_oS7DCk-Vbgjq-CUqszclbxrZlCl-/view?usp=sharing',
   },
   {
     title: 'Google Prompt Essentials',
