@@ -17,7 +17,7 @@ const certifications = [
     title: 'Google Prompt Essentials',
     provider: 'Coursera',
     image: '/Google.jpg',
-    link: '/certificates/google-ai.pdf',
+    link: 'https://drive.google.com/file/d/1uE7QM2PfAFPIzicQwY4kLADgihwsW2Vj/view?usp=sharing',
   },
   {
     title: 'Responsive Web Design',
