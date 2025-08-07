@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 const projects = [
   {
     title: 'IEEE KSB Website',
-    description: 'Designed and developed the official website for IEEE Kinnaird Student Branch (KSB), showcasing events, members, and initiatives.',
+    description: 'Developed the official website for IEEE Kinnaird Student Branch, showcasing events, members, and initiatives.',
     image: '/project-1.png',
     github: 'https://github.com/IEEE-Kinnaird/IEEE-KSB-Website',
     demo: 'https://6730bd89d83707a80a8b6795--ieee-kinnaird.netlify.app/',
