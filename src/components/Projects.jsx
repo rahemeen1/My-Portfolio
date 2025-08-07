@@ -11,7 +11,7 @@ const projects = [
   },
   {
     title: 'NeedNest',
-    description: 'Donation platform connecting those in need with donors.',
+    description: 'Donation platform connecting those in need with donors wit fully functional backend.',
     image: '/project-2.png',
     github: 'https://github.com/rahemeen1/NeedNest',
     demo: 'https://neednest.netlify.app/',
