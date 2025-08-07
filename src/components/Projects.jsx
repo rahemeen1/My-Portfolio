@@ -13,7 +13,7 @@ const projects = [
     title: 'NeedNest',
     description: 'Donation platform connecting those in need with donors with fully functional backend.',
     image: '/project-2.png',
-    github: 'https://github.com/rahemeen1/NeedNest',
+    github: 'https://github.com/rahemeen1/NeedNest-FullStack',
     demo: 'https://neednest.netlify.app/',
     tech: ['React', 'API', 'CSS'],
   },
