@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 const projects = [
   {
     title: 'IEEE KSB Website',
-    description: 'Modern portfolio using React & Framer Motion.',
+    description: 'Designed and developed the official website for IEEE Kinnaird Student Branch (KSB), showcasing events, members, and initiatives.',
     image: '/project-1.png',
     github: 'https://github.com/IEEE-Kinnaird/IEEE-KSB-Website',
     demo: 'https://6730bd89d83707a80a8b6795--ieee-kinnaird.netlify.app/',
@@ -15,7 +15,7 @@ const projects = [
     image: '/project-2.png',
     github: 'https://github.com/rahemeen1/NeedNest-FullStack',
     demo: 'https://neednest.netlify.app/',
-    tech: ['React', 'API', 'CSS'],
+    tech: ['React', 'API', 'CSS', 'Netlify', 'InfinityFree'],
   },
   {
     title: 'EightyEight Salon',
