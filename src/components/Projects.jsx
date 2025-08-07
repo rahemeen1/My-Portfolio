@@ -19,7 +19,7 @@ const projects = [
   },
   {
     title: 'EightyEight Salon',
-    description: 'Online platform for salon services.',
+    description: 'Developed an Online platform for salon services.',
     image: '/project-3.png',
     github: 'https://github.com/rahemeen1/EightyEightSalon',
     demo: 'https://eightyeightsalon.netlify.app/',
