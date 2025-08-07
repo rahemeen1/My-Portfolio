@@ -5,7 +5,7 @@ const certifications = [
     title: 'Google UX Design',
     provider: 'Coursera',
     image: '/Google.jpg',
-    link: '/certificates/google-ux.pdf',
+    link: 'https://drive.google.com/file/d/1GebFrbgGQAPjhrvkzI0U8Z1CCMcHbJMG/view?usp=sharing',
   },
   {
     title: 'Google AI Essentials',
