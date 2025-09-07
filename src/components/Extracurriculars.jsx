@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 
 const activities = [
   {
-    title: 'Vice-Chair',
+    title: 'Chairperson',
     role: 'IEEE WIE, Kinnaird Branch',
   },
   {
