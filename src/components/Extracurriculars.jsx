@@ -1,6 +1,10 @@
 import { motion } from 'framer-motion';
 
 const activities = [
+   {
+    title: 'Event Head',
+    role: 'TechFusion 3.0',
+  },
   {
     title: 'Chairperson',
     role: 'IEEE WIE, Kinnaird Branch',
