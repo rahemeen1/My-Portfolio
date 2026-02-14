@@ -52,7 +52,7 @@ function About() {
   whileInView={{ opacity: 1 }}
   transition={{ delay: 0.7 }}
 >
-  <span style={styles.eduLabel}>Education:</span> CGPA 3.57 / 4.00
+  <span style={styles.eduLabel}>Education:</span> CGPA 3.61 / 4.00
 </motion.p>
 <motion.p
   style={{

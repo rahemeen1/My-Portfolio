@@ -23,7 +23,7 @@ const experiences = [
     duration: 'June 25 - Present',
     description:
       'Designed visuals and contributed to branding and event materials.',
-    certificateLink: 'https://drive.google.com/file/d/19RWWUFNabUTpXuncq2A8QVk7u8paTRXl/view?usp=drive_link',
+    certificateLink: 'https://drive.google.com/file/d/1W8munAttK1B1T2r-u-RDs6WMIGhA6kNF/view?usp=sharing',
   },
 ];
 
