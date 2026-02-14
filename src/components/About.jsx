@@ -15,7 +15,7 @@ function About() {
       >
         {/* Profile Image */}
         <motion.img
-          src="/profile.jpg"
+          src="/Rahemeen.jpeg"
           alt="Rahemeen Kamran"
           style={styles.image}
           initial={{ opacity: 0, scale: 0.8 }}
