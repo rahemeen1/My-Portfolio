@@ -31,11 +31,11 @@ function About() {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ delay: 0.4, duration: 0.6 }}
           >
-            to my Portfolio!<span style={styles.nameGlow}>Welcome </span>
+            Hey! I am<span style={styles.nameGlow}>Rahemeen Kamrann </span>
           </motion.h2>
 
           <motion.p style={styles.paragraph} initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ delay: 0.6 }}>
-            I'm <strong style={styles.highlight}>Rahemeen Kamran</strong>, a passionate <strong style={styles.highlight}>Computer Scientist</strong> who believes in blending <em>logic</em> with <em>design</em>. I’m constantly learning, growing, and chasing new challenges.
+           A passionate <strong style={styles.highlight}>Computer Scientist</strong> who believes in blending <em>logic</em> with <em>design</em>. I’m constantly learning, growing, and chasing new challenges.
           </motion.p>
 
           <motion.p style={styles.paragraph} initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ delay: 0.8 }}>
