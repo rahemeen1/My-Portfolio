@@ -31,7 +31,7 @@ function About() {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ delay: 0.4, duration: 0.6 }}
           >
-            <span style={styles.nameGlow}>Welcome </span>to my Portfolio!
+            to my Portfolio!<span style={styles.nameGlow}>Welcome </span>
           </motion.h2>
 
           <motion.p style={styles.paragraph} initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ delay: 0.6 }}>
