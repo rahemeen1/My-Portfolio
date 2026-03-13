@@ -76,7 +76,7 @@ function Experience() {
     </motion.a>
   )}
 
-  {exp.title === 'Graphic Designer' && (
+  {exp.title === 'Lead Graphic Designer' && (
     <motion.a
       href="https://drive.google.com/file/d/19RWWUFNabUTpXuncq2A8QVk7u8paTRXl/view?usp=drive_link"
       target="_blank"
