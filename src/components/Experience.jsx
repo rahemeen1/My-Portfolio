@@ -18,12 +18,12 @@ const experiences = [
     certificateLink: 'https://drive.google.com/file/d/1IahrCHuinovU01A6dYkVCHodiYBT3UFN/view?usp=sharing',
   },
   {
-    title: 'Graphic Designer',
+    title: 'Lead Graphic Designer',
     company: 'GDG Cloud Lahore (Volunteer)',
     duration: 'June 25 - Present',
     description:
       'Designed visuals and contributed to branding and event materials.',
-    certificateLink: 'https://drive.google.com/file/d/1W8munAttK1B1T2r-u-RDs6WMIGhA6kNF/view?usp=sharing',
+    certificateLink: 'https://drive.google.com/file/d/1W8munAttK1B1T2r-u-RDs6WMIGhA6kNF/view?usp=drive_link',
   },
 ];
 
