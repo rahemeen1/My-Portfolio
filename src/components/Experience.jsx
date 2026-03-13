@@ -63,7 +63,7 @@ function Experience() {
               <p style={styles.duration}>{exp.duration}</p>
               <p style={styles.description}>{exp.description}</p>
 <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
-  {exp.title !== 'Graphic Designer' && (
+  {exp.title !== 'Lead Graphic Designer' && (
     <motion.a
       href={exp.certificateLink}
       target="_blank"
