@@ -19,7 +19,7 @@ const experiences = [
   },
   {
     title: 'Lead Graphic Designer',
-    company: 'GDG Cloud Lahore (Volunteer)',
+    company: 'GDG Cloud Lahore',
     duration: 'June 25 - Present',
     description:
       'Designed visuals and contributed to branding and event materials.',
