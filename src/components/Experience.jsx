@@ -78,7 +78,7 @@ function Experience() {
 
   {exp.title === 'Lead Graphic Designer' && (
     <motion.a
-      href="https://drive.google.com/file/d/19RWWUFNabUTpXuncq2A8QVk7u8paTRXl/view?usp=drive_link"
+      href="https://drive.google.com/file/d/1W8munAttK1B1T2r-u-RDs6WMIGhA6kNF/view?usp=drive_link"
       target="_blank"
       rel="noopener noreferrer"
       style={{
