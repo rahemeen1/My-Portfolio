@@ -9,10 +9,7 @@ const activities = [
     title: 'Chairperson',
     role: 'IEEE WIE, Kinnaird Branch',
   },
-  {
-    title: 'Ambassador',
-    role: 'ZimoGroups UK',
-  },
+  
   {
     title: 'Event Coordinator',
     role: 'ILS’25',
