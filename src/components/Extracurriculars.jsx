@@ -15,7 +15,7 @@ const activities = [
     role: 'ILS’25',
   },
   {
-    title: 'Volunteer',
+    title: 'Lead Graphics',
     role: 'GDG Cloud Lahore',
   },
 ];
